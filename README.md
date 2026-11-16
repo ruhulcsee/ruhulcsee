@@ -1,119 +1,160 @@
-<!-- README.md -->
+<p align="center">
+  <img src="https://github.com/ruhulcsee.png?size=160" width="110" alt="Ruhul Amin" />
+</p>
+
+<h1 align="center">Ruhul Amin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
-<h1 align="center">
-  👋 Hello, I'm <span style="color:#10B981; font-weight:bold;">Ruhul Amin</span>
-</h1>
-<p align="center" style="font-size: 18px;">
-  <strong>| 💻 Web Developer &nbsp;|&nbsp; 🎓 CSE Undergraduate &nbsp;|&nbsp; 💡 Tech Enthusiast &nbsp;|&nbsp; 📚 Lifelong Learner |</strong>
+  <strong>Full-Stack Developer</strong> &nbsp;·&nbsp; <strong>CSE Undergraduate</strong><br />
+  React · Django · FastAPI · Computer Vision &amp; AI
 </p>
 
-
----
-
-## 🧑‍💼 About Me
-
-🎓 I'm currently studying **Computer Science and Engineering (CSE)** at **Green University of Bangladesh**.  
-💡 I love exploring new technologies, especially web development and AI-powered systems.  
-📚 Currently learning Django and exploring various backend technologies.  
-🚀 I enjoy building real-world projects like Management Systems using Django and other backend technologies.  
-🤝 Actively involved in social volunteering and educational organizations.  
-🎯 My Goal: To become a skilled Full-Stack Developer and actively contribute to open-source.
-
----
-
-## 🎓 Education
-
-- 🏫 **Green University of Bangladesh**  
-- 🎓 **BSc in Computer Science and Engineering**  
-- 📅 7th Semester | Duration: 4 Years | Expected Graduation: 2026  
-
----
-
-## 🤹 Skills
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🎓 Expected 2026 &nbsp;·&nbsp; 💼 Open to internships &amp; junior roles
 </p>
 
-### 🌐 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🗃️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoCAD-%23C6362B.svg?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Terminal-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  <a href="https://ruhulcsee.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ruhulaminn1316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ruhulaminn1316@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ruhulcsee"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/ruhulcsee"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 👋 About Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://kaggle.com/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%230C0C0C?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://fb.com/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://medium.com/@ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@RUHUL_AMIN" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%239A2B2B.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/ruhulaminn1316" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://discord.gg/4jsABU62" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+I'm a **Computer Science & Engineering** student at **Green University of Bangladesh** and a **full-stack developer**. I enjoy owning the full build — from database schema and API design to a clean, responsive interface — and I've built projects ranging from an AI-powered animal disease detection app to a multi-bank core banking simulator.
+
+- 🎓 **BSc in CSE** · Green University of Bangladesh · Expected 2026
+- 💻 **Focus:** React, Django, FastAPI, and AI/ML integration
+- 🌱 **Thesis:** lightweight deep learning for real-time deepfake detection
+- 🤝 **Community:** President, Khudharto Somaj Foundation · former Publication Secretary, Green University Reading Society
+- 💼 **Open to:** internships, junior developer roles, and open-source collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**<br>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+**Frameworks & Backend**<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+**AI, Data & Cloud**<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+**Tools & Design**<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+<img src="https://img.shields.io/badge/AutoCAD-C6362B?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="410" src="https://github-stats-extended.vercel.app/api?username=ruhulcsee&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" alt="Ruhul Amin's GitHub stats" />
+  <img width="410" src="https://streak-stats.demolab.com?user=ruhulcsee&hide_border=true&theme=github-dark" alt="Ruhul Amin's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="410" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ruhulcsee&layout=compact&langs_count=8&hide=html,css&hide_border=true&theme=github_dark" alt="Ruhul Amin's top languages" />
 </p>
 
 ---
 
-## 📊 GitHub & Coding Stats:
+## 🚀 Featured Projects
+
+### 🐾 [Domestic Animal Disease Detection](https://github.com/ruhulcsee/Domestic-Animal-disease-detection)
+AI-powered early disease screening for livestock. A custom **TensorFlow/Keras CNN** classifies five animal species, with human-vs-animal image gating, **Firebase** authentication, and a **FastAPI** inference API.
+
+**Stack:** `React` · `FastAPI` · `TensorFlow/Keras` · `Firebase`<br>
+**Links:** [Live Demo](https://domestic-animal-disease-detection.onrender.com) · [Source Code](https://github.com/ruhulcsee/Domestic-Animal-disease-detection)
+
+### 🌐 [SocketForge](https://github.com/ruhulcsee/project/tree/main/SocketForge)
+Distributed client–gateway–worker framework over raw **TCP sockets**. Implements round-robin load balancing, heartbeat-based failure detection, automatic failover, and a **React** monitoring dashboard.
+
+**Stack:** `Java` · `TCP Sockets` · `Multithreading` · `React`<br>
+**Source:** [SocketForge](https://github.com/ruhulcsee/project/tree/main/SocketForge)
+
+### 🏦 [BD SmartBank](https://github.com/ruhulcsee/banking-mangement-project)
+Academic core-banking and payment-system simulator with **JavaFX** dashboards for customers, banks, a central bank, and admins; backed by **MySQL/H2** and built with Maven.
+
+**Stack:** `Java` · `JavaFX` · `MySQL` · `Maven`<br>
+**Source:** [BD SmartBank](https://github.com/ruhulcsee/banking-mangement-project)
+
+### 📡 [CCN Campus Network Design](https://github.com/ruhulcsee/CCN-Campus-Network-Design-Project)
+Multi-campus network design and simulation in **Cisco Packet Tracer**, covering VLANs, RIP/OSPF routing, subnetting, and documented router/switch configurations.
+
+**Stack:** `Cisco Packet Tracer` · `VLAN` · `RIP/OSPF` · `Subnetting`<br>
+**Source:** [CCN Campus Network Design](https://github.com/ruhulcsee/CCN-Campus-Network-Design-Project)
+
+<p align="center">
+  <a href="https://github.com/ruhulcsee?tab=repositories"><strong>More repositories →</strong></a>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- **Deepfake detection (thesis):** researching a lightweight deep-learning framework for real-time deepfake image detection on social platforms.
+- **Backend engineering:** going deeper into Django, FastAPI, and production REST API design.
+- **Web security:** studying the OWASP Top 10 and secure authentication patterns.
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="mailto:ruhulaminn1316@gmail.com"><img src="https://img.shields.io/badge/Email-ruhulaminn1316%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ruhulcsee.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ruhulcsee.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ruhulaminn1316/"><img src="https://img.shields.io/badge/LinkedIn-ruhulaminn1316-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ruhulcsee"><img src="https://img.shields.io/badge/GitHub-ruhulcsee-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/ruhulcsee"><img src="https://img.shields.io/badge/X-ruhulcsee-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<p align="center">
+  <sub>
+    <strong>Coding profiles:</strong>
+    <a href="https://leetcode.com/ruhulaminn1316">LeetCode</a> ·
+    <a href="https://www.hackerrank.com/ruhulaminn1316">HackerRank</a> ·
+    <a href="https://www.codechef.com/users/ruhulaminn1316">CodeChef</a> ·
+    <a href="https://codeforces.com/profile/ruhulaminn1316">Codeforces</a> ·
+    <a href="https://kaggle.com/ruhulaminn1316">Kaggle</a>
+    <br />
+    <strong>Elsewhere:</strong>
+    <a href="https://medium.com/@ruhulaminn1316">Medium</a> ·
+    <a href="https://www.facebook.com/ruhulaminn1316">Facebook</a> ·
+    <a href="https://www.instagram.com/ruhulaminn1316/">Instagram</a> ·
+    <a href="https://www.youtube.com/@RUHUL_AMIN">YouTube</a> ·
+    <a href="https://discord.gg/4jsABU62">Discord</a>
+  </sub>
+</p>
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulaminn1316&theme=default" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulaminn1316&layout=compact&theme=default" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ruhulaminn1316&show_icons=true&locale=en" width="400" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ruhulaminn1316&layout=compact&langs_count=8" width="500" alt="WakaTime Stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://leetcard.jacoblin.cool/ruhulaminn1316?ext=heatmap" width="500" alt="LeetCode Stats"/>
-      </td>
-    </tr>
-  </table>
-
+  <sub>Thanks for stopping by — feel free to reach out.</sub>
 </div>
