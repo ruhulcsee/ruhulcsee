@@ -57,7 +57,7 @@
 [![Deployment Platform](https://skillicons.dev/icons?i=linux,bash)](https://github.com/ruhulcsee)
 
 ### AI & Machine Learning:
-[![Design & Graphics](https://skillicons.dev/icons?i=tensorflow,keras)](https://github.com/ruhulcsee)
+[![AI & Machine Learning](https://skillicons.dev/icons?i=tensorflow,opencv)](https://github.com/ruhulcsee)
 
 ### Tools & Technologies:
 [![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://github.com/ruhulcsee)
@@ -68,7 +68,13 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+  </picture>
+</p>
 
 
 ### GitHub Statistics:
