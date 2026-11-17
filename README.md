@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ruhul Amin</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=CSE+Undergraduate;Passionate+Full+Stack+Web+Developer;JavaScript+%26+Modern+Frameworks+Enthusiast;Interested+in+Computer+Vision+%26+AI" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=CSE+Undergraduate;Passionate+Full+Stack+Web+Developer;JavaScript+%26+Modern+Frameworks+Enthusiast;Interested+in+Computer+Vision+%26+AI" alt="Typing SVG" /></a>
   </ul>
 </div>
 
