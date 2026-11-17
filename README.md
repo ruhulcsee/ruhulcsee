@@ -74,8 +74,9 @@
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruhulcsee&theme=github" /></a> | <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhulcsee&theme=github" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruhulcsee&theme=github" alt="GitHub statistics" />
+</p>
 
 ### Repository Stats & Streak:
 | <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruhulcsee&theme=github" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=ruhulcsee" /></a> |
