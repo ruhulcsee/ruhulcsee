@@ -69,11 +69,7 @@
 
 ### GitHub Contributions:
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/ruhulcsee/ruhulcsee@output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
 </p>
 
 
