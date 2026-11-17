@@ -68,15 +68,15 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/ruhulcsee/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://raw.githubusercontent.com/ruhulcsee/ruhulcsee/output/github-contribution-grid-snake.svg)
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruhulcsee&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulcsee&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruhulcsee&theme=github" /></a> | <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ruhulcsee&theme=github" /></a> |
 | ------------- | ------------- |
 
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=ruhulcsee&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=ruhulcsee" /></a> |
+| <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruhulcsee&theme=github" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=ruhulcsee" /></a> |
 | ------------- | ------------- |
 
 <br/>
